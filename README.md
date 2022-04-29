@@ -9,7 +9,7 @@
 <h5>https://github.com/RajarsiMukherjee/youtube-clone<h5>
  
 <h3>View in Browser<h3>
- 
+     <img src="https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(103).png" alt="project pik">
 	
 <h1>Teck stack we used<h1>
 <h4>I have used these technologies in the following project<h4>
@@ -32,4 +32,4 @@
 		 
 								
 <h1>It's my individual project<h1>
-	 <img src="https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/youtube.png" alt="project pik">
+	 <img src="https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(100).png" alt="project pik">
