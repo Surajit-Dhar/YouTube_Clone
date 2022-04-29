@@ -2,11 +2,11 @@
 <h4>Project Clone ofhttps://www.youtube.com/ site<h4>
 <h4>In this project we have tried to make a look alike clone of youtube. With our efforts and the technology stack, that I have learned till now in Unit-3 in Masai School, we were able to clone the front end and added similar looks and features.<h4>
   
-<h3>Deploy link https://ecstatic-euler-675cf2.netlify.app/ <h3>
+<h3>Deploy link https://gilded-youtiao-03dcc4.netlify.app/ <h3>
 	
 <h1>Run locally<h1>
 <h3>Clone the project<h3>
-<h5>https://github.com/RajarsiMukherjee/youtube-clone<h5>
+<h5>https://github.com/Surajit-Dhar/YouTube_Clone<h5>
  
 <h3>View in Browser<h3>
      <img src="https://raw.githubusercontent.com/Surajit-Dhar/Photos/main/Screenshot%20(103).png" alt="project pik">
